@@ -3,11 +3,11 @@
 
 int right_wheel_1 = 2;
 int right_wheel_2 = 3;
-int right_wheel_power = 9;
+int right_wheel_power = 6;
 
-int left_wheel_1 = 6;
+int left_wheel_1 = 4;
 int left_wheel_2 = 7;
-int left_wheel_power = 10;
+int left_wheel_power = 5;
 
 
 void setup() {
