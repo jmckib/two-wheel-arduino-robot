@@ -1,0 +1,3 @@
+[submodule "arduino_libraries/ArduinoNunchuk"]
+	path = arduino_libraries/ArduinoNunchuk
+	url = git@github.com:jmckib/ArduinoNunchuk.git
