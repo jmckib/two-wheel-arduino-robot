@@ -31,7 +31,7 @@ For the robot:
 
 - Arduino, breadboard, wiring, 2 AA batteries and battery holder (for the motors), 9V battery and battery cap (for the Arduino).
 
-    I could have used one 9V battery for the whole thing, but I would have needed a 3V voltage regular for the motors, and I didn't have one laying around.
+    I could have used one 9V battery for the whole thing, but I would have needed a 3V voltage regulator for the motors, and I didn't have one laying around.
 
     I used an Arduino Duemilanove, but any recent model should work.
 
