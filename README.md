@@ -4,8 +4,10 @@ Two-wheeled Arduino Robot
 ![The robot](https://github.com/jmckib/two-wheel-arduino-robot/blob/master/robot.jpg?raw=true)
 *No awkward third wheel!*
 
-This is the source code for a robot with two independent wheels. It receives
-commands from an RF (radio frequency) remote control.
+This is the source code for a robot with two independent wheels. This is NOT
+a balancing robot; I didn't feel like buying another wheel so it just drags
+itself around. It receives commands from an RF (radio frequency) remote
+control.
 
 This is the first robot I've ever built, so don't you judge me! Hopefully
 other newbs will find this useful, and the more advanced will have a few
